@@ -1,0 +1,3 @@
+
+python package for graph convolutional networks.
+codes provided by Defferrard from: https://github.com/mdeff/cnn_graph
